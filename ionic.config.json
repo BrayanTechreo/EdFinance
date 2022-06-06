@@ -1,0 +1,7 @@
+{
+  "name": "EdFinanciera",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
